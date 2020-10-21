@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CalculadoraAmarilla</string>
+    <string name="edt_hint_numero1">Numero1</string>
+    <string name="edt_hint_numero2">Numero2</string>
+    <string name="txt_bt_mas">+</string>
+    <string name="txt_bt_menos">-</string>
+    <string name="txt_bt_por">*</string>
+    <string name="txt_bt_division">/</string>
+    <string name="txt_bt_resto">%</string>
+    <string name="txt_resultado">0</string>
+</resources>
